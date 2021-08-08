@@ -1,0 +1,1 @@
+It is collection of solved code of the book "Python Crash Course- A Hands on Project-based Introduction in Programming" by Eric Matthes
